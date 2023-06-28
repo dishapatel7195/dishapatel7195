@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hi, I'm Disha Patel, a software engineer with a strong background in computer science. 
 
-<!--
-**dishapatel7195/dishapatel7195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education:
+- Master of Science in Computer Science from Seattle University, Seattle WA.
+- Bachelor of Science in Computer Engineering from Ganpat University, India.
 
-Here are some ideas to get you started:
+💻 Technical Skills:
+Java, Python, HTML, CSS, JavaScript, Bootstrap, SwiftUI, Xcode, MySQL, Azure basics, GCP basics, Angular, Node.js, React, TypeScript, MongoDB basics, Figma, unit testing, automation testing basics, AWS, RESTful API, Express, Mongoose, software as a service, Swift, Xcode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Certifications:
+- AWS Certified Cloud Practitioner (Issued by Amazon Web Services Training and Certification)
+
+✉️ Email: dishap7195@gmail.com
+🌐 GitHub: https://github.com/dishapatel7195
+🔗 LinkedIn: [https://www.linkedin.com/in/dishap7195/]
+
+📫 Feel free to reach out to me at dishap7195@gmail.com or connect with me on LinkedIn.
+
+Excited to collaborate on innovative projects and contribute to the world of software development! ✨
