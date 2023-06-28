@@ -8,7 +8,7 @@
 
 ✉️ Email: dishap7195@gmail.com | 
 🌐 GitHub: https://github.com/dishapatel7195 | 
-🔗 LinkedIn: [https://www.linkedin.com/in/dishap7195/]
+🔗 LinkedIn: https://www.linkedin.com/in/dishap7195/
 
 📫 Feel free to reach out to me at dishap7195@gmail.com or connect with me on LinkedIn.
 Excited to collaborate on innovative projects and contribute to the world of software development! ✨
