@@ -4,7 +4,7 @@
 
 💻 Technical Skills: Languages : Java, Python, Javascript, Swift | Front-end : Angular, React, HTML5, CSS3 | Back-end : Node.js, Express, Flask | Database : MySQL, MongoDB | Cloud Platforms : Aws, Azure | Testing : JUnit, Pytest, Chai, Mocha | Security : Threat Modeling, Encryption, and Key Management, OpenSSL.
 
-📚 Certifications: AWS Certified Cloud Practitioner (Issued by Amazon Web Services Training and Certification)
+📚 Certifications: AWS Certified Cloud Practitioner (Issued by Amazon Web Services Training and Certification) & The Complete 2023 Web Development Bootcamp by Dr. Angela Yu - Udemy 
 
 ✉️ Email: dishap7195@gmail.com | 
 🌐 GitHub: https://github.com/dishapatel7195 | 
