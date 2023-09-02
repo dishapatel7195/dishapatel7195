@@ -2,7 +2,14 @@
 
 🎓 Education: Master of Science in Computer Science from Seattle University, Seattle WA.
 
-💻 Technical Skills: Java, Python, HTML, CSS, JavaScript, Bootstrap, SwiftUI, Xcode, MySQL, Azure basics, GCP basics, Angular, Node.js, React, TypeScript, MongoDB basics, Figma, unit testing, automation testing basics, AWS, RESTful API, Express, Mongoose, software as a service, Swift, Xcode.
+💻 Technical Skills: 
+Languages: Java, Python, Javascript, Swift  
+Front-end: Angular, React, HTML5, CSS3 
+Back-end: Node.js, Express, Flask
+Database: MySQL, MongoDB 
+Cloud Platforms: Aws, Azure
+Testing: JUnit, Pytest, Chai, Mocha
+Security: Threat Modeling, Encryption, and Key Management, OpenSSL
 
 📚 Certifications: AWS Certified Cloud Practitioner (Issued by Amazon Web Services Training and Certification)
 
